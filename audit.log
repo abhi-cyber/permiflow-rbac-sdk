@@ -1,0 +1,36 @@
+[2025-01-29T10:37:38.944Z] Permission added: read on user:123
+[2025-01-29T10:37:38.945Z] Permission added: write on user:123
+[2025-01-29T10:37:38.945Z] Role created: guest
+[2025-01-29T10:37:38.945Z] Access check: Role guest has access to user:123:read
+[2025-01-29T10:37:38.945Z] Access check: Role guest does not have access to user:123:write
+2025-01-29T11:02:06.756Z - Permission added: read on user:123
+2025-01-29T11:02:06.757Z - Permission added: write on user:123
+2025-01-29T11:02:06.757Z - Role created: guest
+2025-01-29T11:02:06.757Z - Role created: admin
+2025-01-29T11:02:06.757Z - Access check: Role guest has access to user:123:read
+2025-01-29T11:02:06.757Z - Access check: Role guest does not have access to user:123:write
+2025-01-29T11:02:06.757Z - Access check: Role admin has access to user:123:write
+2025-01-29T11:02:06.758Z - Permission added: read on user:123
+2025-01-29T11:02:06.758Z - Permission added: write on user:123
+2025-01-29T11:02:06.758Z - Role created: guest
+2025-01-29T11:02:06.758Z - Role created: admin
+2025-01-29T11:02:06.758Z - Permission added: delete on user:123
+2025-01-29T11:02:06.758Z - Role created: superadmin
+2025-01-29T11:02:06.758Z - Access check: Role superadmin has access to user:123:delete
+2025-01-29T11:02:06.758Z - Permission added: read on user:123
+2025-01-29T11:02:06.758Z - Permission added: write on user:123
+2025-01-29T11:02:06.759Z - Role created: guest
+2025-01-29T11:02:06.759Z - Role created: admin
+2025-01-29T11:02:06.759Z - Permission added: read on user:123
+2025-01-29T11:02:06.759Z - Permission added: write on user:123
+2025-01-29T11:02:06.759Z - Role created: guest
+2025-01-29T11:02:06.759Z - Role created: admin
+2025-01-29T11:02:06.759Z - Access check: Role guest has access to user:123:read
+2025-01-29T11:02:06.759Z - Access check: Role guest has access to user:123:write
+2025-01-29T11:02:06.759Z - Permission added: read on user:123
+2025-01-29T11:02:06.759Z - Permission added: write on user:123
+2025-01-29T11:02:06.759Z - Role created: guest
+2025-01-29T11:02:06.759Z - Role created: admin
+2025-01-29T11:02:06.759Z - Permission added: read on user:123
+2025-01-29T11:02:06.759Z - Role created: roleA
+2025-01-29T11:02:06.759Z - Role created: roleB
