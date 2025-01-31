@@ -106,3 +106,11 @@ manager.checkAccess("guest", "user:123:read");
 
 // Check the audit.log file for logged actions
 ```
+
+## Contact
+
+For any questions or feedback, please contact:
+
+- **Name**: Abhiraj Singh
+- **Email**: abhicyber.dev@gmail.com
+- **GitHub**: [abhi-cyber](https://github.com/abhi-cyber)
